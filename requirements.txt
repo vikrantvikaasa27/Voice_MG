@@ -1,0 +1,6 @@
+streamlit
+sounddevice
+numpy
+wavio
+whisper
+portaudio19-dev
