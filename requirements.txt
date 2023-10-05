@@ -3,4 +3,6 @@ sounddevice
 numpy
 wavio
 whisper
-portaudio19-dev
+llama-cpp-python
+llama_index
+llama-2-13b-chat.ggmlv3.q4_0.bin
