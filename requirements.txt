@@ -5,4 +5,4 @@ wavio
 whisper
 llama-cpp-python
 llama_index
-llama-2-13b-chat.ggmlv3.q4_0.bin
+llama-2-13b-chat.ggmlv3.q4_0.bin (from HuggingFace) https://huggingface.co/TheBloke/Llama-2-13B-chat-GGML/blob/main/llama-2-13b-chat.ggmlv3.q4_0.bin 
