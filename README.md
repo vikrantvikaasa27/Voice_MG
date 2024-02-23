@@ -1,4 +1,4 @@
-##Voice_MG
+# Voice_MG
 
 • This project introduces an innovative Speech-to-Text and grammar-checking application that leverages cutting-edge technologies to facilitate this vital aspect of human connection. Designed to be user-friendly and versatile, the application serves a diverse user base, ranging from students and professionals to individuals seeking to improve their language skills. 
  This project aims to create a speech-to-text and grammar-checking application that allows users to record their spoken input, transcribe it into text, and then check the grammar and format of the transcribed text.
@@ -8,7 +8,7 @@
 ![project architecture (1)](https://github.com/vikrantvikaasa27/Voice_MG/assets/94424716/797c816e-1e4c-4b9c-b6e4-505597e03118)
 
 
-##How to Run:
+# How to Run:
 
 ## 1) Download requiremts.txt 
 
