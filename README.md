@@ -21,7 +21,9 @@ pip install requirements.txt
 ```
 streamlit run Voicemg_app.py
 ```
-#Output
+
+
+# Output
 
 • Basic Streamlit Interface
 ![image](https://github.com/vikrantvikaasa27/Voice_MG/assets/94424716/43acc828-e3f8-4d61-a1bd-c8bd2c966f98)
